@@ -95,5 +95,4 @@ jupyter notebook Delivery_Time_Prediction.ipynb
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square\&logo=github\&logoColor=white\&color=ff69b4)](https://github.com/Liya-S-Chittilappilly)
 
 
-# end
 ---
